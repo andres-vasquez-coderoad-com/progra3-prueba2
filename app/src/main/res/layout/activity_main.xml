@@ -30,10 +30,11 @@
         android:textSize="55dp" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/llubitzaTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:textColor="#ffffffff"
+        android:text="Llubitza" />
 
     <TextView
         android:id="@+id/textView4"
