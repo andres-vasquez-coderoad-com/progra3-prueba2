@@ -37,15 +37,15 @@
         android:text="Llubitza" />
 
     <TextView
-        android:id="@+id/textView4"
+        android:id="@+id/kenHervasTextView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="Hola Ken" />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/denisseTextView5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Otro texto xD" />
+        android:text="Otro texto de Denisse xD" />
 </LinearLayout>
