@@ -23,7 +23,11 @@
         android:id="@+id/fabianTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:layout_marginTop="35dp"
+        android:layout_marginBottom="45dp"
+        android:textColor="@color/colorPrimary"
+        android:text="TheRealJewBear"
+        android:textSize="55dpdp" />
 
     <TextView
         android:id="@+id/textView3"
